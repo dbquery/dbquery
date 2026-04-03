@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & Discussion
+    url: https://github.com/dbquery/dbquery/discussions
+    about: Ask questions, share ideas, or start a conversation in Discussions.
+  - name: Website
+    url: https://dbquery.app
+    about: Visit the DBQuery website for more information.
