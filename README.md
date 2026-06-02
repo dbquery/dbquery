@@ -26,7 +26,7 @@ Before opening a new issue, please search [existing issues](../../issues) to avo
 
 ## Links
 
-- [Website](https://dbquery.app)
+- [Website](https://dbquery.ai)
 
 ## License
 
