@@ -1,6 +1,6 @@
 # DBQuery
 
-A modern, fast database client for PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, and MongoDB.
+A modern, fast database client for PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, MongoDB, CockroachDB, Percona, TiDB, and Azure SQL.
 
 ## About
 
